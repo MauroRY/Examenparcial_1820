@@ -96,15 +96,16 @@ main{
   align-items: center;
 }
 .columna1 h2, .columna2 h2{
-  font-size: 40px;
+  font-size: 50px;
   
 }
 .columna1 h3{
   margin-top: 20px;
-  font-size: 18px;
-  color: #faf4f4;
+  font-size: 20px;
+  color: #ffffff;
   text-align: left;
   width: 100%;
+  font-family: "Arima";
 }
 .columna1 ul.recommendations {
   list-style: disc;
@@ -114,7 +115,7 @@ main{
  color: #ddd;
 }
 .columna1 ul.recommendations li {
-  font-size: 16px;
+  font-size: 20px;
   margin-bottom: 10px;
   line-height: 1.5;
 }
@@ -154,7 +155,7 @@ main{
 }
 .columna1 p {
   text-align: justify;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   color: #ddd;
   font-family: "Arima";
@@ -163,9 +164,10 @@ main{
 .columna2 p{
   margin-top: 15px;
   text-align: justify;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.6;
   color: #f3eeee;
+  font-family: "Arima";
 }
 
 /*creando la seccion 02 del contenido de la pagina*/
